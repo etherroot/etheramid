@@ -1,0 +1,2 @@
+# etheramid
+Decentralised social pyramid
