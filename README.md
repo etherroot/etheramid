@@ -14,4 +14,4 @@ Decentralised social pyramid
 * 6th level - 1.5625%
 * 7th level - 1.5625%
 
-Or just wait until random selects you for new perticicant without inviter.
+Or just wait until random selects you for new perticipant without inviter.
