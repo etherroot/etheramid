@@ -1,7 +1,7 @@
 # etheramid
-Decentralised social pyramid
+Decentralised social invitation game.
 
-### Multi-level pyramid.
+### Multi-level social invitation game.
 
 ### Send 1 Ether to enter.
 
